@@ -1,0 +1,5 @@
+RealTimeAnalytics-Kinesis - Contains examples referred in Chapter-5
+Spark-Examples - Contains examples referred in Chapter-6 to Chapter-10
+Chapter 3 - Contains examples referred in Chapter-3
+Chapter 4 - Contains examples referred in Chapter-4
+There are no codes for chapters 1 and 2
